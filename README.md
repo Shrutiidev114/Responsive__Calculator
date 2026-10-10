@@ -44,7 +44,7 @@ Modulus %
 
 🚀 Live Demo
 
-🔗 Live Demo: Add your deployed website link here.
+🔗 Live Demo:(https://shrutiidev114.github.io/Responsive__Calculator/)
 
 
 🛠️ Technologies Used
