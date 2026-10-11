@@ -63,18 +63,21 @@ calculator/
 
 ## 🚀 How to Run
 1. Clone the repository
-```git clone https://github.com/Shrutiidev114/CALCULATOR-PROJECT-.git
-```
+```bash
+ git clone https://github.com/Shrutiidev114/CALCULATOR-PROJECT-.git
+ ```
 
 2. Open the project directory
-```cd calculator
+```
+cd calculator
 ```
 
 3. Check the background image
 
 Make sure your background image is located at:
 
-```image/background image.jpeg
+```
+image/background image.jpeg
 ```
 
 4. Run the calculator
@@ -270,7 +273,8 @@ Because the project uses only HTML, CSS, JavaScript, and an image, no backend se
 
 ## SHRUTI KUMARI
 
-```GitHub: https://github.com/Shrutiidev114
+```bash
+GitHub: https://github.com/Shrutiidev114
 ```
 
 If you found this project useful or interesting, consider giving the repository a ⭐!
