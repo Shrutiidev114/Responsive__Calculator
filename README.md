@@ -1,8 +1,10 @@
-🧮 Responsive Calculator
+<h1 align="center">🧮 Responsive Calculator </h1>
 
 A modern and responsive calculator built using HTML5, CSS3, and JavaScript. The calculator features a dark glassmorphism-inspired interface, gold accents, a black-and-white background image, keyboard support, responsive design, horizontal display scrolling, and a custom expression evaluator without using JavaScript's eval() or Function() methods.
+<h4 align="center">🔗 Live Demo: https://shrutiidev114.github.io/Responsive__Calculator/
+</h4>
 
-✨ Features
+## ✨ Features
 
 🔢 Basic arithmetic operations
 
@@ -42,17 +44,13 @@ Modulus %
 
 🎨 Button hover and click animations
 
-🚀 Live Demo
-
-🔗 Live Demo:(https://shrutiidev114.github.io/Responsive__Calculator/)
-
-
-🛠️ Technologies Used
-Technology	Purpose
-HTML5	Calculator structure and buttons
-CSS3	Styling, responsive layout, animations, and glassmorphism effects
-JavaScript	Calculator functionality, keyboard support, and expression evaluation
-📁 Project Structure
+## 🛠️ Technologies Used
+HTML5 :	Calculator structure and buttons
+<br/>CSS3 :	Styling, responsive layout, animations, and glassmorphism effects
+<br/>JavaScript	: Calculator functionality, keyboard support, and expression evaluation
+<br/>
+## 📁 Project Structure
+```
 calculator/
 │
 ├── index.html
@@ -61,19 +59,23 @@ calculator/
 │
 └── image/
     └── background image.jpeg
+```
 
-🚀 How to Run
+## 🚀 How to Run
 1. Clone the repository
-git clone https://github.com/Shrutiidev114/CALCULATOR-PROJECT-.git
+```git clone https://github.com/Shrutiidev114/CALCULATOR-PROJECT-.git
+```
 
 2. Open the project directory
-cd calculator
+```cd calculator
+```
 
 3. Check the background image
 
 Make sure your background image is located at:
 
-image/background image.jpeg
+```image/background image.jpeg
+```
 
 4. Run the calculator
 
@@ -83,19 +85,19 @@ No frameworks, packages, or additional dependencies are required.
 
 That's it! 🎉
 
-🎮 Keyboard Controls
-Key	Action
+## 🎮 Keyboard Controls<br/>
+### Key	Action<br/>
 0-9	Enter numbers
-+	Addition
--	Subtraction
-*	Multiplication
-/	Division
-%	Modulus
-.	Decimal point
-Enter	Calculate result
+Addition<br/>
+ 	Subtraction<br/>
+ 	Multiplication <br/>
+  Division
+ <br/>	Modulus
+ <br/>	Decimal point
+<br/> Enter	Calculate result
 Backspace	Delete the last character
-Escape	Clear the calculator
-🧮 How Calculation Works
+Escape	Clear the calculator <br/>
+## 🧮 How Calculation Works
 
 The calculator does not use JavaScript's eval() or Function() methods.
 
@@ -130,7 +132,7 @@ and produces:
 
 This provides basic mathematical operator precedence while avoiding direct execution of JavaScript code.
 
-🔐 Security
+## 🔐 Security
 
 This calculator intentionally avoids:
 
@@ -148,7 +150,7 @@ The calculator also checks the expression format and prevents division or modulu
 
 Note: Avoiding eval() does not automatically make every expression parser secure. The calculator is designed to accept only the limited set of characters and operations required for this project.
 
-🎨 Design
+## 🎨 Design
 
 The calculator uses a modern dark interface with gold accents.
 
@@ -190,25 +192,7 @@ Supported devices
 
 On screens smaller than 400px, the calculator reduces its width, display size, button height, and font sizes to provide a better mobile experience.
 
-📐 Calculator Layout
-
-The calculator uses a CSS Grid layout with four columns.
-
-The 0 button spans two columns to create a familiar calculator layout.
-
-┌─────┬─────┬─────┬─────┐
-│ AC  │ DEL │  %  │  ÷  │
-├─────┼─────┼─────┼─────┤
-│  7  │  8  │  9  │  ×  │
-├─────┼─────┼─────┼─────┤
-│  4  │  5  │  6  │  −  │
-├─────┼─────┼─────┼─────┤
-│  1  │  2  │  3  │  +  │
-├───────────┼─────┼─────┤
-│     0     │  .  │  =  │
-└───────────┴─────┴─────┘
-
-📚 What I Learned
+## 📚 What I Learned
 
 Building this project helped me practice:
 
@@ -238,7 +222,7 @@ Building a project without external JavaScript libraries
 
 Preparing a frontend project for public deployment
 
-🔮 Future Improvements
+## 🔮 Future Improvements
 
 Possible future improvements include:
 
@@ -270,7 +254,7 @@ MC
 
 📊 Calculation history stored using local storage
 
-🌐 Deployment
+### 🌐 Deployment
 
 This project can be deployed easily using static hosting platforms such as:
 
@@ -282,15 +266,16 @@ Vercel
 
 Because the project uses only HTML, CSS, JavaScript, and an image, no backend server is required.
 
-👨‍💻 Author
+### 👨‍💻 Author
 
-SHRUTI KUMARI
+## SHRUTI KUMARI
 
-GitHub: https://github.com/Shrutiidev114
+```GitHub: https://github.com/Shrutiidev114
+```
 
 If you found this project useful or interesting, consider giving the repository a ⭐!
 
-📄 License
+### 📄 License
 
 This project is available under the MIT License.
 
